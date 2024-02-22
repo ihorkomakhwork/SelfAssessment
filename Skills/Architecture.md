@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components h
-  - Directories u
-  - GRASP h
-  - SOLID u
-  - GoF patterns h
-  - CQS k
-  - Leaking abstractions h
-  - Multiparadigm code u
-  - Contract programming u
-  - Platform-agnostic u
-  - Transport-agnostic u
-  - Framework-agnostic u
-  - Code coverage 
-  - Cohesion k
-  - Coupling k
+  - Modularity: 🖐️ used
+  - Components: 👂 heard
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
+  - CQS: 🎓 known
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic: 🖐️ used
+  - Framework-agnostic: 🖐️ used
+  - Code coverage
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -24,17 +24,17 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer k
-  - Domain-specific language (DSL) h
-  - System vs applied code u
-  - Multilayer approach u
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 🖐️ used
+  - Multilayer approach: 🖐️ used
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming h
-  - Inversion of control (IoC) k
-  - Dependency injection (DI) k
-  - Clean architecture k
-  - Domain-driven design (DDD) k
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
   - Message brocker
   - Agent
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML h
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -54,17 +54,17 @@
   - Gateways
   - On-premises
   - IaaS
-  - PaaS h
-  - SaaS h
-  - FaaS clouds h
-  - Serverless h
-  - Vendor lock-in h
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
+  - Vendor lock-in: 👂 heard
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
@@ -72,8 +72,8 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -83,7 +83,7 @@
   - Understanding business needs
   - Enterprise strategy
   - Integration with subsystems
-  - Enterprise vision 
+  - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
